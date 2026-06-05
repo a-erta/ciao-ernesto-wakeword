@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "Ciao Ernesto",
   "author": "Alessandro Erta",
-  "website": "",
   "model": "ciao_ernesto.tflite",
   "trained_languages": ["it"],
   "version": 2,
